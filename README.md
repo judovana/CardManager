@@ -9,3 +9,4 @@ Some can be easily downloadable from internet, but be aware of copyrights.  <br 
 The default deck and background is free of copyright  <br />
 Also please feel free to add your own backgrounds to ~/CardManager/data/backgrounds and of course enhance collection under ~/CardManager/collection  <br />
 
+Packed for fedora for some time - https://admin.fedoraproject.org/pkgdb/package/rpms/CardManager/
